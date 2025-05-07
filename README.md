@@ -1,16 +1,20 @@
-## Hi there 👋
+### Olá, meu nome é Gabi Silva / Hello, i'm Gabi Silva ✨
 
-<!--
-**Gabi-data/Gabi-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Ciêncista de Dados com foco em soluções avançadas em Inteligência Artificial, Machine Learning e Big Data.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim / About me 🗺️
+- 🎓 Licenças e Certificados: Ciência de Dados - Rede Cidadã / Análise de Dados - Neurotech / Power BI: FCAP
+- 📌 Interesses: Ciência de Dados, DevOps, AWS, Azure, GCP Power BI
+- 💡 Hard Skills: Python, R, SQL, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Power BI, Manipulação de Dados
+- 💡 Soft Skills: Comunicação efetiva, Trabalho colaborativo, Capacidade Analítica, Gestão de Crise e Resolução de Problemas, Proatividade e Iniciativa
+
+### Projetos
+Projeto Amparo no GitHub:  💜  [![Amparo - Modelo de Aprendizado de Máquina ](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://github.com/Drajao-exe/Amparo/tree/dadosTratados)
+
+
+
+
+
+### Contato
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellyvitoria/)
